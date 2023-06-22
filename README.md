@@ -1,1 +1,1 @@
-# tugas project Komputer Grafik Algoritma DDA,Bresenham,Circle menggunakan Javascript
+Graph Algoritma DDA,Bresenham,Circle using Javascript
